@@ -1,0 +1,51 @@
+/* Style the header */
+header{
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+}
+
+body{background-color:dimgray;}
+/* Style the nav */
+nav{
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+}
+/* Style the section */
+section{	height: 70px;
+	width: 650px;
+	text-align: center;
+	background-color: #F1F1F1;
+}
+/* Style the article */
+article{ color: #FFFFFF; 
+	height: 50px;
+	width: 600px;
+	text-align: center;
+	background-color: dimgray;
+}
+/* Style the p */
+p{ height: 60px;
+	width :600px;
+	text-align: center;
+	background-color: #F1F1F1
+}
+/* Style the aside */
+aside {
+	height: 200px;
+	padding: 5px;
+	width: 30%;
+	float: right;
+	text-align:center;
+	justify-content: center;
+	background-color:  #F1F1F1
+}
+
+/* Style the footer*/
+footer{	background-color: #F1F1F1;
+	text-align: center;
+	padding: 20px;
+}
+
+
